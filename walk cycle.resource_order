@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"checkpoint","order":3,"path":"objects/checkpoint/checkpoint.yy",},
+    {"name":"end_collision","order":4,"path":"objects/end_collision/end_collision.yy",},
+    {"name":"player","order":2,"path":"objects/player/player.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"block","order":2,"path":"sprites/block/block.yy",},
+    {"name":"end_portal","order":10,"path":"sprites/end_portal/end_portal.yy",},
+    {"name":"Left","order":4,"path":"sprites/Left/Left.yy",},
+    {"name":"orb","order":9,"path":"sprites/orb/orb.yy",},
+    {"name":"Right","order":7,"path":"sprites/Right/Right.yy",},
+    {"name":"Rocks","order":8,"path":"sprites/Rocks/Rocks.yy",},
+    {"name":"Static_Left","order":5,"path":"sprites/Static_Left/Static_Left.yy",},
+    {"name":"Static_Right","order":6,"path":"sprites/Static_Right/Static_Right.yy",},
+    {"name":"you_win","order":11,"path":"sprites/you_win/you_win.yy",},
+  ],
+}

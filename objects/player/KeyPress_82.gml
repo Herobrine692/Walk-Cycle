@@ -1,0 +1,2 @@
+x = spawnx;
+y = spawny;
